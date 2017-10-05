@@ -14,7 +14,7 @@ $ composer require getbackmyself/csv-parser
 
 #To start the work shown in the examples below, you must first create a namespace
 ```php
-use getbackmyself\CsvParser;
+use getbackmyself\CsvParser\CsvParser;
 ```
 
 Get `Field count` return int:
