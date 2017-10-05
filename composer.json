@@ -3,7 +3,6 @@
     "type": "yii2-components",
     "description": "cvs file parser php",
     "keywords": ["csv", "yii2 components", "parser", "csv parser"],
-    "minimum-stability": "stable",
     "license": "MIT",
      "authors": [
         {
@@ -13,7 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0"
+        "php": ">=5.5.0",
+        "yiisoft/yii2": ">=2.0.6"
     },
     "autoload": {
         "psr-4": {
