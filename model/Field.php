@@ -6,7 +6,6 @@
 
 namespace getbackmyself\CsvParser\model;
 
-
 class Field
 {
 
