@@ -6,7 +6,7 @@
 
 
 namespace getbackmyself\CsvParser;
-use  getbackmyself\CsvParser\model\Fields;
+use getbackmyself\CsvParser\model\Field;
 use Yii;
 
 class CsvParser
