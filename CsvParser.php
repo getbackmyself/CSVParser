@@ -5,11 +5,11 @@
  */
 
 
-namespace getbackmyself\CSVParser;
-use  getbackmyself\CSVParser\model\Fields;
+namespace getbackmyself\CsvParser;
+use  getbackmyself\CsvParser\model\Fields;
 use Yii;
 
-class CSVParser
+class CsvParser
 {
 
 

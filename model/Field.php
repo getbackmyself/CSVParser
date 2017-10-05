@@ -4,7 +4,7 @@
  * @git - https://github.com/getbackmyself
  */
 
-namespace getbackmyself\CSVParser\model;
+namespace getbackmyself\CsvParser\model;
 
 
 class Field
