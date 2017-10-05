@@ -1,5 +1,5 @@
 {
-    "name": "getbackmyself/CSVParser",
+    "name": "getbackmyself/csv-parser",
     "type": "yii2-components",
     "description": "cvs file parser php",
     "keywords": ["csv", "yii2 components", "parser", "csv parser"],
