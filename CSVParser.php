@@ -5,10 +5,9 @@
  */
 
 
-namespace app\modules\docs\components\CSVParser;
+namespace getbackmyself\CSVParser;
 
-use yii\helpers\VarDumper;
-use  app\modules\docs\components\CSVParser\model\Field;
+use  getbackmyself\CSVParser\model\Fields;
 use Yii;
 
 class CSVParser

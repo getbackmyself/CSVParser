@@ -4,7 +4,7 @@
  * @git - https://github.com/getbackmyself
  */
 
-namespace app\modules\docs\components\CSVParser\model;
+namespace getbackmyself\CSVParser\model;
 
 
 class Field
