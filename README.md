@@ -7,7 +7,7 @@ cvs file parser php
  Via composer:
 
 ```
-$ composer require getbackmyself/CSVParser
+$ composer require getbackmyself/csv-parser
 ```
 ## Usage:
 
