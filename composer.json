@@ -1,0 +1,23 @@
+{
+    "name": "getbackmyself/CSVParser",
+    "type": "yii2-components",
+    "description": "cvs file parser php",
+    "keywords": ["csv", "yii2 components", "parser", "csv parser"],
+    "minimum-stability": "stable",
+    "license": "MIT",
+     "authors": [
+        {
+            "name": "Mukhammed Abdullayev",
+            "email": "mukhammed.ne@gmail.com",
+            "homepage": "https://github.com/getbackmyself"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "getbackmyself\\CSVParser\\": ""
+        }
+    }
+}
