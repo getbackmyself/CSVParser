@@ -6,7 +6,6 @@
 
 
 namespace getbackmyself\CSVParser;
-
 use  getbackmyself\CSVParser\model\Fields;
 use Yii;
 
