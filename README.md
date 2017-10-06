@@ -19,20 +19,20 @@ use getbackmyself\CsvParser\CsvParser;
 
 Get `Field count` return int:
 ```php
-CSVParser::instance('filename', 'path')->getSize();
+CsvParser::instance('filename', 'path')->getSize();
 ```
 
 Get `Table Headers` return array:
 ```php
-CSVParser::instance('filename', 'path')->getHeaders();
+CsvParser::instance('filename', 'path')->getHeaders();
 ```
 
 Get all `Fields` return array:
 ```php
-CSVParser::instance('filename', 'path')->getFields();
+CsvParser::instance('filename', 'path')->getFields();
 ```
 
 Get `Field by ID` return array:
 ```php
-CSVParser::instance('filename', 'path')->getField(id);
+CsvParser::instance('filename', 'path')->getField(id);
 ```
