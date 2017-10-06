@@ -48,7 +48,7 @@ class Field
                     //формируем массив из элементов файла
                     for ($c=0; $c < $num; $c++)
                     {
-                        $this->data[$row][$this->headers[$c]]=$data[$c];
+                        $this->data[$row-1][$this->headers[$c]]=$data[$c];
                     }
                 }
 
