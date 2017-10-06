@@ -43,14 +43,15 @@ class Field
                     {
                         $this->headers[$c]=$data[$c];
                     }
+                }else{
+
+                    //формируем массив из элементов файла
+                    for ($c=0; $c < $num; $c++)
+                    {
+                        $this->data[$row][$this->headers[$c]]=$data[$c];
+                    }
                 }
 
-
-                //формируем массив из элементов файла
-                for ($c=0; $c < $num; $c++)
-                {
-                    $this->data[$row][$this->headers[$c]]=$data[$c];
-                }
             }
             fclose($handle);
         }
